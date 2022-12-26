@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ashley
+- 👀 I’m interested in building platforms and communities
+- 🌱 I’m currently learning Passport.js
+- 💞️ I’m looking to collaborate on future oppourtunities
+- 📫 How to reach me ashley.wxwx@gmail.com
